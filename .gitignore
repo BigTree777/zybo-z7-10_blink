@@ -1,0 +1,26 @@
+# Codex local settings
+.codex/
+
+# Vivado generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado journals, logs, and temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+*.tmp
+*.backup.*
+*.xpr.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~
